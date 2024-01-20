@@ -1,0 +1,6 @@
+# Ignore data and output folders
+/data/
+/output/
+
+# Ignore any .csv files within the data folder
+/data/*.csv
